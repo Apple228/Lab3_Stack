@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BE05E886-DAC8-3C03-B98A-5A7E7E875953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C59A0718-21B2-3189-A8F1-D5088AAA8595}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

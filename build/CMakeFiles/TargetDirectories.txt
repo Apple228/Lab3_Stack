@@ -1,0 +1,3 @@
+C:/Users/aleks/Documents/GitHub/Lab3/Lab3_Stack/build/CMakeFiles/StructureSetOfNumbers.dir
+C:/Users/aleks/Documents/GitHub/Lab3/Lab3_Stack/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aleks/Documents/GitHub/Lab3/Lab3_Stack/build/CMakeFiles/ZERO_CHECK.dir

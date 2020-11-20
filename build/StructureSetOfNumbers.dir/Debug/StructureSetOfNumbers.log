@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h(13,32): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h(14,31): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  StructureSetOfNumbers.vcxproj -> C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\Debug\StructureSetOfNumbers.exe
