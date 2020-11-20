@@ -1,2 +1,2 @@
 project(Lab3)
-add_executable(StructureSetOfNumbers main.cpp tstack.h)
+add_executable(StructureSetOfNumbers main.cpp tstack.h datacom.h dataroot.h dataroot.cpp)

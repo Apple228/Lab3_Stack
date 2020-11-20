@@ -1,3 +1,4 @@
+//простой стек
 #ifndef __TSTACK_H
 #define __TSTACK_H
 

@@ -310,6 +310,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\main.cpp" />
     <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h" />
+    <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datacom.h" />
+    <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\dataroot.h" />
+    <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\dataroot.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\ZERO_CHECK.vcxproj">
