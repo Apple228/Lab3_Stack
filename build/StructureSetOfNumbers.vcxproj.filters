@@ -7,6 +7,9 @@
     <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\dataroot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h">
@@ -16,6 +19,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\dataroot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,5 +1,9 @@
-﻿  Building Custom Rule C:/Users/aleks/Documents/GitHub/Lab3/Lab3_Stack/source/CMakeLists.txt
+﻿  datstack.cpp
   main.cpp
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h(13,32): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\tstack.h(14,31): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-  StructureSetOfNumbers.vcxproj -> C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\Debug\StructureSetOfNumbers.exe
+  Создание кода...
+main.obj : error LNK2001: неразрешенный внешний символ "protected: virtual int __cdecl TStack::GetNextIndex(int)" (?GetNextIndex@TStack@@MEAAHH@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "protected: virtual void __cdecl TStack::Paint(int,int,int)" (?Paint@TStack@@MEAAXHHH@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "protected: virtual int __cdecl TStack::IsValid(void)" (?IsValid@TStack@@MEAAHXZ).
+main.obj : error LNK2001: неразрешенный внешний символ "protected: virtual void __cdecl TStack::Print(void)" (?Print@TStack@@MEAAXXZ).
+main.obj : error LNK2001: неразрешенный внешний символ "protected: virtual void __cdecl TStack::CopyToVector(int * const)" (?CopyToVector@TStack@@MEAAXQEAH@Z).
+C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\Debug\StructureSetOfNumbers.exe : fatal error LNK1120: неразрешенных внешних элементов: 5

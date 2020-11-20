@@ -1,5 +1,6 @@
 #include <iostream>
-#include "tstack.h"
+//#include "tstack.h"
+#include "datstack.h"
 using namespace std;
 int main()
 {
@@ -14,5 +15,6 @@ int main()
 	{
 		cout << a.Get()<<endl;
 	}
+	
 	return 0;
 }
