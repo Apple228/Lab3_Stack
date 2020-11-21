@@ -1,6 +1,2 @@
-﻿  datstack.cpp
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp(40,57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp(48,3): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp(52,3): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
-C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp(56,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+﻿  main.cpp
   StructureSetOfNumbers.vcxproj -> C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\Debug\StructureSetOfNumbers.exe

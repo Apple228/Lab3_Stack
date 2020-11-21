@@ -17,7 +17,7 @@ TData TStack::Get(void) //взять из стека с удалением
 {
 	TData temp = -1;
 	if (pMem == NULL) SetRetCode(DataNoMem);
-	//else if (IsFull()) SetRetCode(DataFull);
+	else if (IsEmpty()) SetRetCode(DataFull);
 	else {
 		temp = pMem[Hi--];
 		DataCount--;
