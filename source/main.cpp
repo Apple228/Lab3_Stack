@@ -1,20 +1,29 @@
 #include <iostream>
+#include <conio.h>
 //#include "tstack.h"
 #include "datstack.h"
+#include "dataroot.h"
+#include "datqueue.h"
 using namespace std;
 int main()
 {
-	TStack a;
-	
+	setlocale(LC_ALL, "Russian");
+	TQueue st;
+	int temp;
+	cout << "Тестирование программ поддержки структуры типа очереди" << endl;
 	for (int i = 0; i < 25; i++)
 	{
-		a.Put(i);
+		st.Put(i);
+		cout << "Положили значение " << i << " Код " << st.GetRetCode() << endl;
 	}
-
-	for (int i = 0; i < 25; i++)
+	getch();
+	int k;
+	while (!st.IsEmpty())
 	{
-		cout << a.Get()<<endl;
+		temp = st.Get();
+		cout << "Взяли значение " << temp << " Код " << st.GetRetCode() << endl;
 	}
-	
+	cout << "Нажмите любую клаву " << endl;
+	getch();
 	return 0;
 }

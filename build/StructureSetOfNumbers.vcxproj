@@ -315,6 +315,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\dataroot.cpp" />
     <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.h" />
     <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datstack.cpp" />
+    <ClCompile Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datqueue.cpp" />
+    <ClInclude Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\source\datqueue.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\aleks\Documents\GitHub\Lab3\Lab3_Stack\build\ZERO_CHECK.vcxproj">
